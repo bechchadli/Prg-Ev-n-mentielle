@@ -1,0 +1,11 @@
+D:\TP_c#\AppWF1\AppWF1\bin\Debug\AppWF1.exe.config
+D:\TP_c#\AppWF1\AppWF1\bin\Debug\AppWF1.exe
+D:\TP_c#\AppWF1\AppWF1\bin\Debug\AppWF1.pdb
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.csprojAssemblyReference.cache
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.Properties.Resources.resources
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.csproj.GenerateResource.cache
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.csproj.CoreCompileInputs.cache
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.exe
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.pdb
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.FAjouterEtudiant.resources
+D:\TP_c#\AppWF1\AppWF1\obj\Debug\AppWF1.FManipProp.resources
