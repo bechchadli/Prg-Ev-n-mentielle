@@ -1,0 +1,10 @@
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\bin\Debug\SolutionExe1DGV.exe.config
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\bin\Debug\SolutionExe1DGV.exe
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\bin\Debug\SolutionExe1DGV.pdb
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\obj\Debug\SolutionExe1DGV.csprojAssemblyReference.cache
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\obj\Debug\SolutionExe1DGV.Form1.resources
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\obj\Debug\SolutionExe1DGV.Properties.Resources.resources
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\obj\Debug\SolutionExe1DGV.csproj.GenerateResource.cache
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\obj\Debug\SolutionExe1DGV.csproj.CoreCompileInputs.cache
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\obj\Debug\SolutionExe1DGV.exe
+D:\TP_c#\SolutionExe1DGV\SolutionExe1DGV\obj\Debug\SolutionExe1DGV.pdb
